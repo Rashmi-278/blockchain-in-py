@@ -2,5 +2,5 @@
 
 Commands:
 
-pipenv install
-pipenv run blockchain.py
+#### pipenv install
+#### pipenv run blockchain.py
